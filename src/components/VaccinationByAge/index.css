@@ -1,0 +1,19 @@
+/* Write your CSS here */
+/* Write your CSS here */
+
+.age-container {
+  background-color: #1c1c2b;
+  width: 80%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+}
+.name {
+  color: #cbd5e1;
+  font-size: 20px;
+}
+.responsive-age {
+  display: flex;
+  flex-direction: column;
+}
